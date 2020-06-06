@@ -1,9 +1,4 @@
 spring:
   application:
     name: order
-  datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    password: 123456
-    url: jdbc:mysql://127.0.0.1:3306/dcits?useUnicode=true&characterEncoding=utf8&characterSetResults=utf8
-    username: root
 env: test
